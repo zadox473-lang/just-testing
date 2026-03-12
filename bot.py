@@ -162,7 +162,7 @@ def run_flask():
 
 # ================= CONFIGURATION =================
 
-BOT_TOKEN = "8727219268:AAHpwzsihqTMnFldtBGl9yVlW-0h-C_Zi6U"
+BOT_TOKEN = "8727219268:AAENf3iIwQSFBZDEbwwkxWft3AAx8qMu5Z4"
 ADMIN_ID = 8689614787
 ADMIN_USERNAME = "@proxyfxc"
 
@@ -176,7 +176,7 @@ FORCE_CHANNELS = ["@midnight_xaura", "@proxydominates"]
 # DATABASE FILE
 DB_FILE = "users.db"
 
-# ================= DATABASE SETUP =================
+# ================= DATABASE SETUP ===========
 
 def init_database():
     """INITIALIZE DATABASE WITH ALL TABLES"""
